@@ -1,1 +1,1 @@
-# Repositrio de Juan Sebastian Moreno panana para la practica 4
+# Repositorio de Juan Sebastian Moreno Panana para la practica 4
